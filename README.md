@@ -4,7 +4,7 @@
 
 # Learn@Home
 
-### Contexte :
+### Le contexte :
 Learn@Home est une association qui met en relation des enfants en difficulté scolaire et des bénévoles, en ligne. Ils ont pour objectif de permettre à tout élève, où qu’il soit, d’accéder à un soutien scolaire à distance. Chaque élève inscrit sur le site a un tuteur bénévole, qui lui est assigné. Le bénévole a pour objectif de soutenir l’élève dans son apprentissage, à travers de courts rendez-vous prévus chaque semaine. Durant ces rendez-vous, le bénévole aide l’élève à réaliser ses devoirs et à s’organiser.
 
 ### Le projet : 
@@ -16,3 +16,7 @@ L'objectif est que je leur présente les éléments suivant :
 - Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités.
 - Les maquettes du site avec un design simple et au moins une maquette par page.
 - Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. 
+
+### Les documentations :
+- [Les notes de la réunion de lancement du projet](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
+- [Modèle de Kanban à compléter](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
